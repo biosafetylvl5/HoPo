@@ -2,17 +2,19 @@
 
 Add the following components to 1.5-ml microcentrifuge tubes on ice.
 
-Table A	Amount	Stock Concentration
-dNTP	10 uL	100mM
-Ooligonucleotide	0.25 to 2.0 nmol	5 to 40 nmol/mL
-TdT Reaction buffer	2 uL	5X
-Autoclaved, distilled water	To a total volume to 50uL	
+| Table A                     | Amount                    | Stock Concentration |
+|-----------------------------|---------------------------|---------------------|
+| dNTP                        | 10 uL                     | 100mM               |
+| Oligonucleotide            | 0.25 to 2.0 nmol          | 5 to 40 nmol/mL     |
+| TdT Reaction buffer         | 2 uL                      | 5X                  |
+| Autoclaved, distilled water | To a total volume to 50uL |                     |
 
-Table B	Function	1	2	3	4
-A	Just Primers (No TdT)	20min	N/A	N/A	80min
-B	Just Primers (No TdT)	20min	N/A	N/A	80min
-C	Test 1 (Primers, TdT)	20min	40min	60min	80min
-D	Test 2 (Primers, TdT)	20min	40min	60min	80min
+| Table B | Function              | 1     | 2     | 3     | 4     |
+|---------|-----------------------|-------|-------|-------|-------|
+| A       | Just Primers (No TdT) | 20min | N/A   | N/A   | 80min |
+| B       | Just Primers (No TdT) | 20min | N/A   | N/A   | 80min |
+| C       | Test 1 (Primers, TdT) | 20min | 40min | 60min | 80min |
+| D       | Test 2 (Primers, TdT) | 20min | 40min | 60min | 80min |
 
 
 1. Add 1 µl TdT (15 units/µl). Mix by gentle pipetting. (Still on ice)
@@ -30,6 +32,3 @@ D	Test 2 (Primers, TdT)	20min	40min	60min	80min
 7. Post stain with CYBR Green
 8. Analyze Gel on Gel Viewer
 9. Record (Pictures, notes)
-
-
-
