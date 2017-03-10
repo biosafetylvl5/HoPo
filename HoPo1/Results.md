@@ -1,4 +1,4 @@
-# Results from HoPo 1:
+# Results:
 
 No difference between the "tailed" samples and the control primer was observed in any of the gels that we ran. This indicates that (in all probability) TdT did not tail our DNA.
 
