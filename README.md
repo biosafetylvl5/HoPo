@@ -1,2 +1,3 @@
-# Homopolymer Expiriment 
-## aka HoPo
+# Homopolymer Expiriment (aka **HoPo**)
+
+
