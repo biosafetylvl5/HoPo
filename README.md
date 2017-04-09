@@ -13,17 +13,22 @@ HoPo is the first step in a series of experiments that will facilitate the synth
 
 TDT or terminal deoxynucleotidyl transferase capitalized and the addition of deoxynucleotidyl triphosphate to already existing oligonucleotide  of length three base pairs or longer. TDT does so with the help of a divalent cation in the appropriate buffer solution At 37°C.  TDT denatures at about 95°C, so we are abusing this fact  by bringing our solution  to 98°C to stop any nucleotide addition.
 
+### HoPo 4
+
+**[Protocol](./HoPo4/HoPo-Protocol.md)** -
+**[Results](./HoPo4/)**
+
 ### HoPo 3
 
 **[Protocol](./HoPo3/HoPo-Protocol.md)** -
-**[Results](./HoPo3/Results.md)**
+**[Results](./HoPo3/)**
 
 ### HoPo 2
 
 **[Protocol](./HoPo2/HoPo-Protocol.md)** -
-**[Results](./HoPo2/Results.md)**
+**[Results](./HoPo2/)**
 
 ### HoPo 1
 
 **[Protocol](./HoPo1/HoPo-Protocol.md)** -
-**[Results](./HoPo1/Results.md)**
+**[Results](./HoPo1/)**
